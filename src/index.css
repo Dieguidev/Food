@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #9ca3af;
+}
+
+.form-control {
+  @apply w-full  leading-snug text-gray-800 py-1 px-4 border rounded border-blue-300 bg-gray-200;
+}
+
+.form-control:hover {
+  @apply bg-white;
+}
+
