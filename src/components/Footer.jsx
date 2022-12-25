@@ -9,10 +9,10 @@ const Footer = () => {
         <div className='hover:text-primary'><i className="fa-brands fa-instagram"></i> @DieguidevFood</div>
       </div>
       <ul className='ml-8 mb-4 mt-4'>
-        <li>Soporte</li>
-        <li>Acerca de Nosotros</li>
-        <li>Registro</li>
-        <li>Aviso de Privacidad</li>
+        <li>Support</li>
+        <li>About us</li>
+        <li>Record</li>
+        <li>Notice of Privacy</li>
       </ul>
     </footer>
   );
